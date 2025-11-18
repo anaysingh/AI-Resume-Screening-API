@@ -1,0 +1,19 @@
+We are looking for a Software Engineer with strong fundamentals in computer science 
+and hands-on experience in backend development. The candidate should have good 
+problem solving skills and the ability to work with cross-functional teams.
+
+Required Skills:
+- Proficiency in Python or Java
+- Strong understanding of SQL and relational databases
+- Experience building REST APIs
+- Knowledge of version control using Git
+- Familiarity with Docker and cloud services (AWS or Azure)
+- Understanding of data structures and algorithms
+- Basics of machine learning or NLP is a plus
+
+Responsibilities:
+- Develop and maintain backend services and APIs
+- Write clean, testable, and efficient code
+- Collaborate with team members to design system architecture
+- Participate in code reviews and technical discussions
+- Troubleshoot, debug and optimize performance issues
