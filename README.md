@@ -1,8 +1,3 @@
-Here is a **clean, minimal, fully professional README** written specifically for your final unified version of the project.
-No emojis, no fluff — suitable for GitHub, resumes, and interviews.
-
----
-
 # AI Resume Screening SaaS
 
 This project provides an API-driven resume analysis system built with FastAPI and transformer-based NLP models.
